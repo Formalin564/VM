@@ -6,7 +6,7 @@ GDAL==3.0.2
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.18.1
+numpy==1.22.0
 psycopg2==2.8.4
 pytz==2019.3
 six==1.14.0
